@@ -1,6 +1,6 @@
 {
   "name": "loopback-component-push",
-  "version": "1.11.5",
+  "version": "1.12.0",
   "description": "Loopback Push Notification",
   "keywords": [
     "StrongLoop Labs",
@@ -15,10 +15,11 @@
     "test": "mocha"
   },
   "dependencies": {
-    "apn": "^2.1.4",
+    "apn": "^2.1.5",
     "async": "^2.1.4",
     "async-cache": "^1.1.0",
     "debug": "^2.2.0",
+    "fastq": "^1.5.0",
     "lodash": "^3.9.3",
     "node-cache": "^2.1.1",
     "node-gcm": "^0.14.0",
