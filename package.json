@@ -24,7 +24,7 @@
     "node-cache": "^2.1.1",
     "node-gcm": "^1.0.2",
     "node-xcs": "git+https://github.com/adpdigital/node-xcs.git#updated",
-    "web-push": "^3.2.5",
+    "web-push": "^3.4.3",
     "wns": "git://github.com/futurice/wns.git#28bfe39a3be8c64f3d72b7c7a5cac77c049b137a"
   },
   "devDependencies": {
